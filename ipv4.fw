@@ -1,0 +1,2 @@
+iptables -I INPUT -p udp --dport 2460 -j ACCEPT
+
